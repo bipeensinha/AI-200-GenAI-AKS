@@ -3,6 +3,10 @@
 
 <img width="1775" height="897" alt="image" src="https://github.com/user-attachments/assets/7888f7eb-489b-4674-b700-baa6b2f27d12" />
 
+## Update environment file with Foundry GPT Model API and Key
+<img width="1232" height="700" alt="Update-Azure-OpenAI-Key" src="https://github.com/user-attachments/assets/6b27f01a-3d37-4071-80cb-efae1ca5e693" />
+
+
 ## ACR Build
 
 <img width="1446" height="693" alt="Build-Github-ACRImage" src="https://github.com/user-attachments/assets/172c8bb9-478d-4bff-8d74-e5e9b522ac66" />
