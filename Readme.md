@@ -11,6 +11,10 @@
 
 <img width="1446" height="693" alt="Build-Github-ACRImage" src="https://github.com/user-attachments/assets/172c8bb9-478d-4bff-8d74-e5e9b522ac66" />
 
+## Attach ACR to AKS
+<img width="1010" height="93" alt="Attach-AKS" src="https://github.com/user-attachments/assets/c76e28c6-c7cd-40ad-a7a0-c2b190a30ff7" />
+
+
 ## Deploy ACR Image to AKS
 <img width="1209" height="323" alt="Deplly-to AKS" src="https://github.com/user-attachments/assets/20e012b5-7ba6-4667-9c79-e05a1feb876f" />
 
